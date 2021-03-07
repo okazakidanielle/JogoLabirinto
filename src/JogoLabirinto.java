@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Atividade realizada no módulo lógica de programação de imersão Java Expert*/
 
 
-//O jogodar está preso num Labirinto mental, quando derrepente voce se encontra encurralado num calabouço psicológico.
+//O jogodar está preso num Labirinto mental, e deverá responder perguntas para conhecer mais profundamente seu nível de consciência num calabouço psicológico.
 
 
 public class JogoLabirinto {
@@ -24,9 +24,9 @@ public class JogoLabirinto {
 		
 		System.out.println("Olá " + nome + " vamos jogar?");
 			
-// De acordo com a resposta escolhida pelo jogador terá uma resposta diferente;
+// De acordo com a resposta escolhida pelo jogador a alternativa terá uma resposta diferente.
 		
-// Essa resposta levara a uma situação
+// Essa resposta levara a uma situação.
 	     
 	     int menu = 0; 
 	     boolean repetirMenu = true;
